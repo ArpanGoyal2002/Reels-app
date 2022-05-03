@@ -1,0 +1,12 @@
+.video-card{
+    height: 100%;
+    width: 35%;
+    margin: auto;
+    border: 1px solid white;
+    scroll-snap-align: start;
+}
+.video-card-video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
